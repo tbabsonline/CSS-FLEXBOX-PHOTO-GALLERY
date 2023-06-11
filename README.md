@@ -20,16 +20,17 @@ The <body> section contains a header with the class "header" and a <div> element
 The header includes an <h1> element that displays the heading "css flexbox photo gallery."
 The gallery contains multiple <img> tags, each with a src attribute pointing to a different image URL.
   
-  
+
 Styling
 The styling for the photo gallery is defined in the styles.css file. Make sure to customize the styles in this file to achieve the desired appearance of the photo gallery. You can modify the layout, sizing, spacing, and any other visual aspects using CSS rules.
+
 
 Customization
 To customize the photo gallery, you can:
 Add or remove images by modifying the <img> tags within the gallery <div>.
 Adjust the styles in the styles.css file to change the layout, spacing, or any other visual properties.
 Modify the text in the header by editing the content within the <h1> element.
-  
-  
+
+
 Compatibility
 The code utilizes modern HTML and CSS features and should work in most modern web browsers. However, it's always a good practice to test your code in different browsers and devices to ensure proper compatibility.
